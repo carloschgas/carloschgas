@@ -7,7 +7,7 @@ Ao longo da graduação, tive contato com diferentes áreas da computação, uni
 
 ## Tecnologias
 
-Durante a faculdade, trabalhei com diferentes linguagens e paradigmas, como **Python** e **C**, especialmente em disciplinas de lógica, estruturas de dados e sistemas.  
+Durante a faculdade, trabalhei com diferentes linguagens e paradigmas, como **Python** e **C**, especialmente em disciplinas de lógica, estruturas de dados e sistemas operacionais.  
 Hoje, meu foco principal está em **backend com Java e Spring Boot** e **frontend com React e TypeScript**.
 
 ### Principais tecnologias
